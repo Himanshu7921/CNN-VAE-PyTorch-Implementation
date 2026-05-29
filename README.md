@@ -4,7 +4,7 @@ This repository implements a Convolutional Variational Autoencoder (CNN-VAE) arc
 
 ## Technical Blog
 
-I documented the complete implementation journey, the mathematics behind variational inference, architecture decisions, and training insights here: **[Building CNN-VAE From Scratch: A Variational Journey](your-blog-link)**
+I documented the complete implementation journey, the mathematics behind variational inference, architecture decisions, and training insights here: **[Building CNN-VAE From Scratch: A Variational Journey](https://medium.com/@himanshusr451tehs/building-variational-autoencoders-vaes-from-scratch-while-reading-the-paper-4b9955aa1bcf)**
 
 The repository contains a fully modular encoder-decoder pipeline optimized for stable latent space distribution modeling without the mode-collapse challenges commonly associated with adversarial training.
 
